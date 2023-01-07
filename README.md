@@ -1,7 +1,14 @@
-# The Odin Project Etch A Sketch
+# Etch A Sketch
 
-A vanilla js app to showcase the use of event listeners and DOM manipulation. A lesson from [The Odin Project](https://www.theodinproject.com/lessons/foundations-etch-a-sketch) course.
+An Etch A Sketch toy clone made with HTML, CSS and JavaScript.
 
 ## Live Demo
 
-[Live Demo Link](https://emanuelefavero.github.io/odin-etch-a-sketch/)
+[Play it here!](https://emanuelefavero.github.io/odin-etch-a-sketch/)
+
+## How to use locally
+
+- Clone the repository
+- Open the `index.htm`l file in your browser
+
+> Learn more about the [Etch A Sketch toy](https://en.wikipedia.org/wiki/Etch_A_Sketch)
