@@ -6,6 +6,10 @@ An Etch A Sketch toy clone made with HTML, CSS and JavaScript.
 
 [Play it here!](https://emanuelefavero.github.io/etch-a-sketch/)
 
+#### Screenshot
+
+<img src="screenshot.png" alt="screenshot" width="300">
+
 ## How to use locally
 
 - Clone the repository
