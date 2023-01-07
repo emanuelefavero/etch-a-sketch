@@ -4,7 +4,7 @@ An Etch A Sketch toy clone made with HTML, CSS and JavaScript.
 
 ## Live Demo
 
-[Play it here!](https://emanuelefavero.github.io/odin-etch-a-sketch/)
+[Play it here!](https://emanuelefavero.github.io/etch-a-sketch/)
 
 ## How to use locally
 
