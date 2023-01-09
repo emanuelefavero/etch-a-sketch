@@ -16,3 +16,7 @@ An Etch A Sketch toy clone made with HTML, CSS and JavaScript.
 - Open the `index.htm`l file in your browser
 
 > Learn more about the [Etch A Sketch toy](https://en.wikipedia.org/wiki/Etch_A_Sketch)
+
+## License
+
+- [MIT](LICENSE.md)
